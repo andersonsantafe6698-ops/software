@@ -13,6 +13,7 @@ public class App {
     
     public static void main(String[] args) {
       // CREAR EL SCANNER
+      //SE CREA ESCANER PARA QUE FUNCIONE
         Scanner entrada = new Scanner(System.in);
 
         // VARIABLES
