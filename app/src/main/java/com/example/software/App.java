@@ -51,6 +51,7 @@ public class App {
         //RESTA
         System.out.println("-------------------------------------");
         System.out.println("2. Resta");
+        System.out.println("-------------------------------------");
         //MULTIPLICACION
         System.out.println("3. Multiplicacion");
         //DIVISION
