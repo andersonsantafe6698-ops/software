@@ -20,9 +20,9 @@ public class App {
         int opcion;
 
         // TITULO
-        System.out.println("=================================");
-        System.out.println("     CALCULADORA BASICA");
-        System.out.println("=================================");
+        System.out.println("=========================================");
+        System.out.println("     CALCULADORA DE OPERACIONES BASICAS ");
+        System.out.println("=========================================");
 
         // PEDIR NUMEROS
         System.out.print("Ingrese el primer numero: ");
