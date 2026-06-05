@@ -25,7 +25,7 @@ public class App {
         double resultado;
         int opcion;
 
-        // TITULO
+        // TITULO DE LA CALCULADORA BASICA
         System.out.println("=========================================");
         System.out.println("     CALCULADORA DE OPERACIONES BASICAS      ");
         System.out.println("=========================================");
