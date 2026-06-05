@@ -17,6 +17,7 @@ public class App {
         Scanner entrada = new Scanner(System.in);
 
         // VARIABLES PARA LAS OPERACIONES
+        //valor numero 1
         double num1;
         double num2;
         double resultado;
