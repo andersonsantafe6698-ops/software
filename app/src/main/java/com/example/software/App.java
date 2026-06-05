@@ -66,7 +66,7 @@ public class App {
         System.out.print("Opcion: ");
         opcion = entrada.nextInt();
 
-        // OPERACIONES
+        // OPERACIONES DEL  PROGRAMA REALIZADO
         switch (opcion) {
 
             case 1:
