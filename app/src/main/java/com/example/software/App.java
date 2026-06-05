@@ -59,6 +59,7 @@ public class App {
         //DIVISION
         System.out.println("-------------------------------------");
         System.out.println("4. Division");
+        System.out.println("-------------------------------------");
         
         //EL SISTEMA TE DA A ELEGIR LA OPCION DESEADA
 
