@@ -107,6 +107,10 @@ public class App {
             default:
                 System.out.println("Opcion incorrecta");
         }
+//=====================================================
+// FINALIZACION DEL PROGRAMA
+// SE CIERRA EL SCANNER PARA AHORRAR MEMORIA
+//=====================================================
 
         // CERRAR SCANNER
         entrada.close();
