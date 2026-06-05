@@ -37,9 +37,13 @@ public class App {
 
         // MENU DE OPCIONES EN BASE A LAS OPERACIONES
         System.out.println("\nSeleccione una opcion:");
+        //SUMA
         System.out.println("1. Suma");
+        //RESTA
         System.out.println("2. Resta");
+        //MULTIPLICACION
         System.out.println("3. Multiplicacion");
+        //DIVISION
         System.out.println("4. Division");
 
         System.out.print("Opcion: ");
