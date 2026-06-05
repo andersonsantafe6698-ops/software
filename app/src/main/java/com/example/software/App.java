@@ -21,6 +21,7 @@ public class App {
         double num1;
         //valor numero 2
         double num2;
+        //resultado impreso
         double resultado;
         int opcion;
 
