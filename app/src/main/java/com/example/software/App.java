@@ -49,6 +49,7 @@ public class App {
         System.out.println("1. Suma");
         System.out.println("-------------------------------------");
         //RESTA
+        System.out.println("-------------------------------------");
         System.out.println("2. Resta");
         //MULTIPLICACION
         System.out.println("3. Multiplicacion");
