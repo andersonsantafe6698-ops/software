@@ -53,6 +53,7 @@ public class App {
         System.out.println("2. Resta");
         System.out.println("-------------------------------------");
         //MULTIPLICACION
+        System.out.println("-------------------------------------");
         System.out.println("3. Multiplicacion");
         //DIVISION
         System.out.println("4. Division");
