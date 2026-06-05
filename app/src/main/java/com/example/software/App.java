@@ -19,6 +19,7 @@ public class App {
         // VARIABLES PARA LAS OPERACIONES
         //valor numero 1
         double num1;
+        //valor numero 2
         double num2;
         double resultado;
         int opcion;
