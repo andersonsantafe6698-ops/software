@@ -24,10 +24,10 @@ public class App {
         System.out.println("     CALCULADORA DE OPERACIONES BASICAS ");
         System.out.println("=========================================");
 
-        // PEDIR NUMEROS
+        // PEDIR NUMEROS (cualquier numero)
         System.out.print("Ingrese el primer numero: ");
         num1 = entrada.nextDouble();
-
+        //sistema pide el segundo valor
         System.out.print("Ingrese el segundo numero: ");
         num2 = entrada.nextDouble();
 
