@@ -1,6 +1,6 @@
 /*
 =====================================================
-UNIVERSIDAD: XXXXX
+UNIVERSIDAD: Univerdidad Tècnica de Cotopaxi
 CARRERA: SOFTWARE
 MATERIA: PROGRAMACION ESTRUCTURADA
 ESTUDIANTE: ANDERSON SANTAFE
