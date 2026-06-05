@@ -57,18 +57,20 @@ public class App {
                 
                 System.out.println("La suma es: " + resultado);
                 break;
-                //el valor como resultado en esta casilla es la suma
+                //el valor resultante en esta casilla es la suma de dos valores dados 
 
             case 2:
                 resultado = num1 - num2;
                 System.out.println("La resta es: " + resultado);
                 break;
+                //el valor resultante en esta casilla es la reta de dos valores dados
 
             case 3:
                 resultado = num1 * num2;
                 System.out.println("La multiplicacion es: " + resultado);
                 break;
-
+                //el valor resultante en esta casilla es la multiplicacion de dos valores dados
+                
             case 4:
 
                 // VALIDAR DIVISION PARA EVITAR ERROR
