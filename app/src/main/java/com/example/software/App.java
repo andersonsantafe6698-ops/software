@@ -21,7 +21,7 @@ public class App {
 
         // TITULO
         System.out.println("=========================================");
-        System.out.println("     CALCULADORA DE OPERACIONES BASICAS ");
+        System.out.println("     CALCULADORA DE OPERACIONES BASICAS      ");
         System.out.println("=========================================");
 
         // PEDIR NUMEROS (cualquier numero)
@@ -30,11 +30,12 @@ public class App {
         //sistema pide el segundo valor
         System.out.print("Ingrese el segundo numero: ");
         num2 = entrada.nextDouble();
+        
         System.out.println("========================");
         System.out.println("MENU DE OPCIONES ");
         System.out.println("========================");
 
-        // MENU
+        // MENU DE OPCIONES EN BASE A LAS OPERACIONES
         System.out.println("\nSeleccione una opcion:");
         System.out.println("1. Suma");
         System.out.println("2. Resta");
