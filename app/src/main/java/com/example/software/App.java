@@ -7,7 +7,6 @@ public class App {
     public String getGreeting() {
         return "Hello World!";
     }
-//hola
     
     public static void main(String[] args) {
       // CREAR EL SCANNER
@@ -55,8 +54,10 @@ public class App {
 
             case 1:
                 resultado = num1 + num2;
+                
                 System.out.println("La suma es: " + resultado);
                 break;
+                //el valor como resultado en esta casilla es la suma
 
             case 2:
                 resultado = num1 - num2;
