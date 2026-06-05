@@ -16,7 +16,7 @@ public class App {
       //SE CREA ESCANER PARA QUE FUNCIONE
         Scanner entrada = new Scanner(System.in);
 
-        // VARIABLES
+        // VARIABLES PARA LAS OPERACIONES
         double num1;
         double num2;
         double resultado;
