@@ -55,6 +55,7 @@ public class App {
         //MULTIPLICACION
         System.out.println("-------------------------------------");
         System.out.println("3. Multiplicacion");
+        System.out.println("-------------------------------------");
         //DIVISION
         System.out.println("4. Division");
         //EL SISTEMA TE DA A ELEGIR LA OPCION DESEADA
