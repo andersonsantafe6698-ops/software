@@ -30,6 +30,9 @@ public class App {
         //sistema pide el segundo valor
         System.out.print("Ingrese el segundo numero: ");
         num2 = entrada.nextDouble();
+        System.out.println("========================");
+        System.out.println("MENU DE OPCIONES ");
+        System.out.println("========================");
 
         // MENU
         System.out.println("\nSeleccione una opcion:");
