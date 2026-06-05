@@ -23,6 +23,7 @@ public class App {
         double num2;
         //resultado impreso
         double resultado;
+        //OPCION PREFERENTE DEL USUARIO
         int opcion;
 
         // TITULO DE LA CALCULADORA BASICA
